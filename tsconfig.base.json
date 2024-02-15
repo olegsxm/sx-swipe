@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@sx-swipe/angular": ["libs/swipe-angular/src/index.ts"],
+      "@sx-swipe/core": ["libs/swipe-core/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
