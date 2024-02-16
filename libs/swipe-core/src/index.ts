@@ -1,2 +1,2 @@
-export * from './lib/swipe-core';
-export * from './lib/swipe-core.types';
+export * from '../../swipe-angular/src/lib/swipe-core';
+export * from '../../swipe-angular/src/lib/swipe-core.types';

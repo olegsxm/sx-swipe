@@ -1,2 +1,2 @@
 export {SwipeDirective} from './lib/swipe.directive';
-export {SwipeEvent} from '@sx-swipe/core';
+export {SwipeEvent} from './lib/swipe-core.types';
